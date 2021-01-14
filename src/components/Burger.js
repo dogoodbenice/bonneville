@@ -15,7 +15,6 @@ const Burger = () => {
       type="button"
       className={isOpen ? "open" : "closed"}
     >
-      Menu
       <div>
         <span></span>
         <span></span>

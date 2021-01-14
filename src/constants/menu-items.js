@@ -29,12 +29,12 @@ export const socialMenuItems = [
   },
   {
     icon: <FaTwitter />,
-    url: "https://www.twitter.com",
+    url: "https://twitter.com/logikblok",
     name: "Twitter",
   },
   {
     icon: <DiGithubBadge />,
-    url: "https://github.com/bagseye",
+    url: "https://github.com/logikblok",
     name: "GitHub",
   },
 ]
