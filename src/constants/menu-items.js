@@ -16,15 +16,15 @@ export const mainMenuItems = [
     title: "journal",
   },
   {
-    path: "/contact",
-    title: "contact",
+    path: "/projects",
+    title: "projects",
   },
 ]
 
 export const socialMenuItems = [
   {
     icon: <FaLinkedin />,
-    url: "https://www.linkedin.com/in/morgan-baker-developer-inverness",
+    url: "https://www.linkedin.com/in/surajrai",
     name: "LinkedIn",
   },
   {
@@ -40,5 +40,5 @@ export const socialMenuItems = [
 ]
 
 export const footerMenuItems = [
-  
+
 ]
