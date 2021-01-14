@@ -8,8 +8,8 @@ const GlobalStyles = createGlobalStyle`
     --transMed: 0.3s;
     --transSlow: 0.5s;
     --black: #2d2828;
-    --charcoal: #939393;
-    --primaryColor: #939393;
+    --charcoal: #192a56;
+    --primaryColor: #192a56;
     --serif: "Times New Roman", serif;
     --sansSerif: "Helvetica", sans-serif;
     --h1: 2rem;
