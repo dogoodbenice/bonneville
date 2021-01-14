@@ -4,7 +4,7 @@ const AboutPage = () => (
   <>
     <h1>My Projects</h1>
     <p>
-      Most of my proffesional work has
+      Most of my proffesional work to date has been in product roles
     </p>
     <p>
       Mauris luctus metus sed mauris ultrices, vel ullamcorper purus faucibus.
