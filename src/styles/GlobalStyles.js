@@ -10,8 +10,8 @@ const GlobalStyles = createGlobalStyle`
     --black: #2d2828;
     --charcoal: #939393;
     --primaryColor: #939393;
-    --serif: "Playfair Display", serif;
-    --sansSerif: "Lato", sans-serif;
+    --serif: "Times New Roman", serif;
+    --sansSerif: "Helvetica", sans-serif;
     --h1: 2rem;
     --h2: 1.8rem;
     --h3: 1.5rem;
