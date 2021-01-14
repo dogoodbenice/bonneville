@@ -10,7 +10,7 @@ module.exports = {
     title: `Logikblok | The website of Suraj Rai`,
     titleTemplate: `%s | A starter theme for Gatsby`,
     description: `A starter theme for Gatsby`,
-    siteUrl: `https://.netlify.com`,
+    siteUrl: `https://xenodochial-mestorf-853f17.netlify.app/`,
     image: `/images/color.jpg`,
     author: `Suraj Rai`,
     authorSite: `https://www.logikblok.com`,
