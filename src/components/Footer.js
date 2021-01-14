@@ -36,6 +36,11 @@ const Footer = ({ Logo }) => {
               </Link>
             )}
             <address>
+             If you're here don't be shy.
+             <br />
+             Let's collaborate on a project.
+             <br />
+             🌍
             </address>
           </div>
         ) : null}
