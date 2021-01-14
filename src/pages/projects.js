@@ -4,10 +4,7 @@ const AboutPage = () => (
   <>
     <h1>My Projects</h1>
     <p>
-      Vestibulum rhoncus quam sit amet purus convallis vestibulum. Pellentesque
-      faucibus, augue id auctor venenatis, tortor eros dapibus ante, et pulvinar
-      libero justo sit amet magna. Suspendisse ac dui lorem. Donec elementum
-      euismod bibendum. Sed eget accumsan dolor.
+      Most of my proffesional work has
     </p>
     <p>
       Mauris luctus metus sed mauris ultrices, vel ullamcorper purus faucibus.
@@ -34,6 +31,10 @@ const AboutPage = () => (
       Curabitur egestas felis sed scelerisque facilisis. Nunc id semper nisi.
       Vivamus suscipit, ex at efficitur sodales, diam elit lacinia sapien, eu
       interdum velit magna quis urna. Sed accumsan viverra augue id imperdiet.{" "}
+    </p>
+    <h2><a href="https://www.kiva.org/lender/logikblok">Micro-finance</a></h2>
+    <p>
+      Regularly lending small amounts around the world.{" "}
     </p>
   </>
 )
