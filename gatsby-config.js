@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Bonneville - Gatsby Starter Theme`,
-        short_name: `Bonneville`,
+        name: `Logikblok | The website of Suraj Rai`,
+        short_name: `Logikblok`,
         start_url: `/`,
         background_color: `#0027EC`,
         theme_color: `#0027EC`,
