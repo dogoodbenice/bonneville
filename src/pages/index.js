@@ -16,7 +16,7 @@ export default ({ data }) => {
     <>
       <Seo />
       <Banner
-        content="This is all a test."
+        content="Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people."
       />
       <FeaturedItems>{BlogPostQuery.totalCount} Featured Posts</FeaturedItems>
       {BlogPostQuery.edges.map(({ node }, index) => (
