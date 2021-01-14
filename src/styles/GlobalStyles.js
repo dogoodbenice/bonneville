@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
     --transMed: 0.3s;
     --transSlow: 0.5s;
     --black: #2d2828;
-    --charcoal: #3e3e3e;
+    --charcoal: #939393;
     --primaryColor: #939393;
     --serif: "Playfair Display", serif;
     --sansSerif: "Lato", sans-serif;

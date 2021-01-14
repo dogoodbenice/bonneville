@@ -7,17 +7,17 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Bonneville`,
+    title: `Logikblok | The website of Suraj Rai`,
     titleTemplate: `%s | A starter theme for Gatsby`,
     description: `A starter theme for Gatsby`,
-    siteUrl: `https://bonneville.netlify.com`,
+    siteUrl: `https://.netlify.com`,
     image: `/images/color.jpg`,
-    author: `Morgan Baker`,
-    authorSite: `https://www.morganbaker.dev`,
-    twitterUsername: `@bonneville`,
+    author: `Suraj Rai`,
+    authorSite: `https://www.logikblok.com`,
+    twitterUsername: `@logikblok`,
     twitterURL: `https://twitter.com/`,
-    linkedInURL: `https://www.linkedin.com/in/morgan-baker-developer-inverness`,
-    githubURL: `https://github.com/bagseye`,
+    linkedInURL: `https://www.linkedin.com/in/surajrai`,
+    githubURL: `https://github.com/logikblok`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
