@@ -21,9 +21,9 @@ const AboutPage = () => (
     <p>Exploring the world in data.</p>
     <h2><a href="https://www.kiva.org/lender/logikblok">Micro finance</a></h2>
     <p>Regularly lending small amounts around the world.</p>
-    <h2><a href="https://afamilytreasure.tumblr.com/">Retired: A Family Treasure</a></h2>
+    <h2><a href="https://afamilytreasure.tumblr.com/">Retired. A Family Treasure</a></h2>
     <p>Curating objects of great value. These are the stories of family treasures.</p>
-    <h2><a href="https://createdbyschools.tumblr.com/">Retired: Created by schools</a></h2>
+    <h2><a href="https://createdbyschools.tumblr.com/">Retired. Created by schools</a></h2>
     <p>A project that created tools for schools.</p>
   </>
 )

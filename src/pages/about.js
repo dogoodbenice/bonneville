@@ -26,7 +26,7 @@ const AboutPage = () => (
     </p>
     <h2><a id="letscollaborate"></a>Want to collaborate on something?</h2>
     <p>
-      She wants to help you effortlessly execute your digital ideas.
+      I want to help you effortlessly execute your digital ideas.
     </p>
   </>
 )

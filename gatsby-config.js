@@ -7,9 +7,9 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Logikblok | The website of Suraj Rai`,
-    titleTemplate: `%s | A starter theme for Gatsby`,
-    description: `A starter theme for Gatsby`,
+    title: `logikblok.com | Suraj's home on the internet`,
+    titleTemplate: `%s |  theme for Gatsby`,
+    description: `logikblok.com | Suraj's home on the internet`,
     siteUrl: `https://xenodochial-mestorf-853f17.netlify.app/`,
     image: `/images/color.jpg`,
     author: `Suraj Rai`,
@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Logikblok | The website of Suraj Rai`,
+        name: `logikblok.com | Suraj's home on the internet`,
         short_name: `Logikblok`,
         start_url: `/`,
         background_color: `#0027EC`,

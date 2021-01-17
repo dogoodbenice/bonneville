@@ -36,8 +36,9 @@ const Footer = ({ Logo }) => {
               </Link>
             )}
             <address>
+             Let's collaborate on
              <br />
-             Let's collaborate 🌍
+             something good for the 🌍
              <br />
             </address>
           </div>
