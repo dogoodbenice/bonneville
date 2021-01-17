@@ -9,7 +9,7 @@ const GlobalStyles = createGlobalStyle`
     --transSlow: 0.5s;
     --black: #2d2828;
     --charcoal: #2F3640;
-    --primaryColor: #2F3640;
+    --primaryColor: #2f3640;
     --serif: "Times New Roman", serif;
     --sansSerif: "Helvetica", sans-serif;
     --h1: 2rem;

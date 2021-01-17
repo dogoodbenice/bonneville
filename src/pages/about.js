@@ -2,38 +2,31 @@ import React from "react"
 
 const AboutPage = () => (
   <>
-    <h1>What is Bonneville?</h1>
+    <h1>About Me</h1>
     <p>
-      Vestibulum rhoncus quam sit amet purus convallis vestibulum. Pellentesque
-      faucibus, augue id auctor venenatis, tortor eros dapibus ante, et pulvinar
-      libero justo sit amet magna. Suspendisse ac dui lorem. Donec elementum
-      euismod bibendum. Sed eget accumsan dolor.
+      Hello I'm Suraj. I'm create products, services and experiences. My current focus is on making it easier to trade to internationally.
     </p>
     <p>
-      Mauris luctus metus sed mauris ultrices, vel ullamcorper purus faucibus.
-      Vestibulum consectetur eros elit, nec molestie felis cursus eleifend.
-      Morbi at nisi sollicitudin, vestibulum nibh eget, porttitor diam.
-      Phasellus vestibulum quis lacus nec mollis. Mauris eget sollicitudin enim.
-      Cras fringilla aliquam tellus. Integer eget purus porttitor, pellentesque
-      magna vitae, suscipit eros.
+      For 10 years, I’ve been working for digital agencies, product companies and design studios in international cross-functional teams across Europe.
     </p>
     <h2>Mauris nec pulvinar est</h2>
     <p>
-      Quisque et aliquam magna. Pellentesque suscipit odio condimentum, faucibus
-      ante et, fringilla ipsum. In scelerisque laoreet lorem, non eleifend ex
-      eleifend vitae. Phasellus fermentum placerat turpis, eget aliquet turpis
-      auctor in.
+      I work at the intersection of design, technology and human interaction, crafting experiences that facilitate conversations between brands and people.
     </p>
     <p>
-      Nulla facilisi. Fusce id elit ac eros fringilla semper. Suspendisse sed
-      placerat metus, sit amet rhoncus lectus. Morbi ultrices auctor mauris, nec
-      volutpat lacus tristique interdum.
+    Here are my projects and here is what I’m making right now.
+    Here is what I have written and here are my sketches.
+    Let's collaborate on a project.
     </p>
     <h2>Quisque et aliquam magna</h2>
     <p>
       Curabitur egestas felis sed scelerisque facilisis. Nunc id semper nisi.
       Vivamus suscipit, ex at efficitur sodales, diam elit lacinia sapien, eu
       interdum velit magna quis urna. Sed accumsan viverra augue id imperdiet.{" "}
+    </p>
+    <h2><a id="letscollaborate"></a>Want to collaborate on something?</h2>
+    <p>
+      She wants to help you effortlessly execute your digital ideas.
     </p>
   </>
 )

@@ -3,39 +3,28 @@ import React from "react"
 const AboutPage = () => (
   <>
     <h1>My Projects</h1>
-    <p>
-      Most of my proffesional work to date has been in product roles
-    </p>
-    <p>
-      Mauris luctus metus sed mauris ultrices, vel ullamcorper purus faucibus.
-      Vestibulum consectetur eros elit, nec molestie felis cursus eleifend.
-      Morbi at nisi sollicitudin, vestibulum nibh eget, porttitor diam.
-      Phasellus vestibulum quis lacus nec mollis. Mauris eget sollicitudin enim.
-      Cras fringilla aliquam tellus. Integer eget purus porttitor, pellentesque
-      magna vitae, suscipit eros.
-    </p>
-    <h2>Mauris nec pulvinar est</h2>
-    <p>
-      Quisque et aliquam magna. Pellentesque suscipit odio condimentum, faucibus
-      ante et, fringilla ipsum. In scelerisque laoreet lorem, non eleifend ex
-      eleifend vitae. Phasellus fermentum placerat turpis, eget aliquet turpis
-      auctor in.
-    </p>
-    <p>
-      Nulla facilisi. Fusce id elit ac eros fringilla semper. Suspendisse sed
-      placerat metus, sit amet rhoncus lectus. Morbi ultrices auctor mauris, nec
-      volutpat lacus tristique interdum.
-    </p>
-    <h2>Quisque et aliquam magna</h2>
-    <p>
-      Curabitur egestas felis sed scelerisque facilisis. Nunc id semper nisi.
-      Vivamus suscipit, ex at efficitur sodales, diam elit lacinia sapien, eu
-      interdum velit magna quis urna. Sed accumsan viverra augue id imperdiet.{" "}
-    </p>
-    <h2><a href="https://www.kiva.org/lender/logikblok">Micro-finance</a></h2>
-    <p>
-      Regularly lending small amounts around the world.{" "}
-    </p>
+    <p>These are some of the things I have created or been involved in. This is a living list, get in touch if you'd like to collaborate or share any feedback.</p>
+    <br>
+    <h2><a href="https://www.proverbproject.com">Proverb Project</a></h2>
+    <p>Creating a collection of carbon neutral to negative products.</p>
+    <h2><a href="https://logikblok.github.io/sketches/">Sketches</a></h2>
+    <p>An assortment of experiments. Sometimes interactive sometimes not.</p>
+    <h2><a href="https://www.upskillme.io">Upksill Me</a></h2>
+    <p>A platform to support the success of every young person.</p>
+    <h2><a href="https://www.emojiphotobooth.fun/">Emoji Photo Booth</a></h2>
+    <p>A website that places emojis on your face using PoseNet, ml5.js and p5.js.</p>
+    <h2><a href="http://www.putyouinabettermood.com">Put you in better mood</a></h2>
+    <p>A website that hopefully will do exactly what it says in the title, enjoy.</p>
+    <h2><a href="http://www.houserai.com/">House Rai</a></h2>
+    <p>A socially motivated agency making products that are good for everyone.</p>
+    <h2><a href="https://observablehq.com/@logikblok?tab=notebooks">Notebooks</a></h2>
+    <p>Exploring the world in data.</p>
+    <h2><a href="https://www.kiva.org/lender/logikblok">Micro finance</a></h2>
+    <p>Regularly lending small amounts around the world.</p>
+    <h2><a href="https://afamilytreasure.tumblr.com/">Retired: A Family Treasure</a></h2>
+    <p>Curating objects of great value. These are the stories of family treasures.</p>
+    <h2><a href="https://createdbyschools.tumblr.com/">Retired: Created by schools</a></h2>
+    <p>A project that created tools for schools.</p>
   </>
 )
 
