@@ -4,12 +4,11 @@ const AboutPage = () => (
   <>
     <h1>About Me</h1>
     <p>
-      Hello I'm Suraj. I create products, services and experiences. My current focus is on making it easier to trade to internationally.
+      Hello I'm Suraj. I create products, services and experiences for people. My current focus is on making it easier to do business internationally.
     </p>
     <p>
-      I'm often most happiest working
+      I'm often most happiest working in teams 
     </p>
-    <h2>Mauris nec pulvinar est</h2>
     <p>
       I work at the intersection of design, technology and human interaction, crafting experiences that facilitate conversations between brands and people.
     </p>
@@ -18,12 +17,6 @@ const AboutPage = () => (
     </p>
     <p>
       Here is what I have written and here are my sketches.
-    </p>
-    <h2>Quisque et aliquam magna</h2>
-    <p>
-      Curabitur egestas felis sed scelerisque facilisis. Nunc id semper nisi.
-      Vivamus suscipit, ex at efficitur sodales, diam elit lacinia sapien, eu
-      interdum velit magna quis urna. Sed accumsan viverra augue id imperdiet.{" "}
     </p>
     <h2><a id="letscollaborate"></a>Want to collaborate on something?</h2>
     <p>
