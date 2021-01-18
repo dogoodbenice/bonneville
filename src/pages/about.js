@@ -7,7 +7,7 @@ const AboutPage = () => (
       Hello I'm Suraj. I create products, services and experiences for people. My current focus is on making it easier to do business internationally.
     </p>
     <p>
-      I'm often most happiest working in teams 
+      I'm often most happiest working in teams
     </p>
     <p>
       I work at the intersection of design, technology and human interaction, crafting experiences that facilitate conversations between brands and people.
@@ -18,9 +18,9 @@ const AboutPage = () => (
     <p>
       Here is what I have written and here are my sketches.
     </p>
-    <h2><a id="letscollaborate"></a>Want to collaborate on something?</h2>
+    <h4><a id="letscollaborate"></a>Want to collaborate on something?</h4>
     <p>
-      I want to help you effortlessly execute your digital ideas.{" "}
+      I want to help you effortlessly execute your digital ideas.
     </p>
   </>
 )

@@ -38,7 +38,7 @@ const Footer = ({ Logo }) => {
             <address>
              Let's collaborate on
              <br />
-             something good for the 🌍
+             something good 🌍
              <br />
             </address>
           </div>
