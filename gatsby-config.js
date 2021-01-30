@@ -8,10 +8,10 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `logikblok.com | Suraj's home on the internet`,
-    titleTemplate: `%s |  theme for Gatsby`,
-    description: `logikblok.com | Suraj's home on the internet`,
+    titleTemplate: ``,
+    description: `Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people.`,
     siteUrl: `https://xenodochial-mestorf-853f17.netlify.app/`,
-    image: `/images/color.jpg`,
+    image: `/images/hello.from.suraj.png`,
     author: `Suraj Rai`,
     authorSite: `https://www.logikblok.com`,
     twitterUsername: `@logikblok`,
@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "ENTER YOUR GA TRACKING ID HERE",
+        trackingId: "[¯\_(ツ)_/¯]",
         head: false,
       },
     },
