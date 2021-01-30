@@ -32,7 +32,7 @@ const BlogItemStyles = styled.article`
     opacity: 1;
 
     img {
-      transition: transform var(--transSlow) ease, opacity var(--transSlow) ease !important;
+      /*transition: transform var(--transSlow) ease, opacity var(--transSlow) ease !important;*/
       opacity: 1;
     }
   }
@@ -40,7 +40,7 @@ const BlogItemStyles = styled.article`
   &:hover {
     > figure {
       img {
-        transform: scale(1.1);
+        /*transform: scale(1.1);*/
         opacity: 0.5 !important;
       }
     }
