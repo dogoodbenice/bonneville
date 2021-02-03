@@ -5,8 +5,8 @@ import styled from "styled-components"
 
 const ShareArea = styled.div`
   svg {
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
     margin-right: var(--spacing);
   }
 
@@ -20,7 +20,7 @@ const ShareArea = styled.div`
 const ShareCont = ({ facebook, twitter, linkedin, href }) => {
   return (
     <ShareArea>
-      <h4>Share This</h4>
+      <h4>Share this with others</h4>
       {twitter && (
         <ShareIcon shareUrl={`https://twitter.com/intent/tweet?url=${href}`}>
           <FaTwitter />
