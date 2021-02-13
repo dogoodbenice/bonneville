@@ -4,7 +4,7 @@ const AboutPage = () => (
   <>
     <h1>My Projects</h1>
     <p>These are some of the things I have created or been involved in.</p>
-    <p>This is a living list, get in touch if you'd like to collaborate or share any feedback.</p>
+    <p>This is a living list, <a href="/contact">get in touch</a> if you'd like to collaborate or share any feedback.</p>
      <br />
     <h4><a href="https://www.proverbproject.com">Proverb Project</a></h4>
     <p>Creating a collection of carbon neutral to negative products.</p>

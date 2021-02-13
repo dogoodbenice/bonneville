@@ -18,7 +18,7 @@ export default ({ data }) => {
       <Banner
         content="Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people."
       />
-      <FeaturedItems>{BlogPostQuery.totalCount} Featured Posts</FeaturedItems>
+      <FeaturedItems>You may like to explore some of my latest <a href="/journal">writing</a>.</FeaturedItems>
       {BlogPostQuery.edges.map(({ node }, index) => (
         <BlogItem nodeObj={node} index={index} />
       ))}

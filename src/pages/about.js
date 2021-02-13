@@ -18,9 +18,9 @@ const AboutPage = () => (
     <p>
       Here is what I have written and here are my sketches.
     </p>
-    <h4><a id="letscollaborate"></a>Want to collaborate on something?</h4>
+    <h4>Want to collaborate on something?</h4>
     <p>
-      I want to help you effortlessly execute your digital ideas.
+      I'm always open for talking through ideas, problems and more. Feel free to send me a message using <a href="/contact">my contact details</a>.
     </p>
   </>
 )
