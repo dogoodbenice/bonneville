@@ -17,14 +17,20 @@ const JournalTemplate = props => {
 
   return (
     <>
-      <SEO title="Read more about the projects at Bonneville" />
-      <Banner content="Bonneville Journal" />
+      <SEO title="Some of Suraj's latest thoughts and explorations" />
+      <Banner content="Journal" />
       <p>
         {" "}
-        This is my journal. I look to write about.
+        These are some articles I've written.
       </p>
       <p>
-        Feedback is always welcome.
+        Topics I often explore are <a href="/tags/culture">culture</a>, <a href="/tags/science">science</a>, <a href="/tags/art">art</a>, <a href="/tags/data">data</a>, <a href="/tags/technology">technology</a> and <a href="/tags/productivity">productivity</a>. There maybe additional tags on articles which you are welcome to explore.
+      </p>
+      <p>
+        Some are <a href="/tags/longform">long</a>, some are <a href="/tags/longform">short</a>, you may also be interested in some of my <a href="https://blog.logikblok.com/">historic writing</a>.
+      </p>
+      <p>
+        Feedback is always <a href="/contact">appreciated</a>.
       </p>
       {edges.map(({ node }, index) => {
         return <BlogItem nodeObj={node} index={index} />

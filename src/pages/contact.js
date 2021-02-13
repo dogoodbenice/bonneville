@@ -60,13 +60,12 @@ const ContactPage = () => {
         I'm on <a href="https://twitter.com/logikblok">Twitter here</a>.
       </p>
       <p>
-        I'm on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a>.
+        I'm on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a>.{" "}
       </p>
       <br />
       <p>
         👐{" "}
       </p>
-      <br />
       <br />
       <br />
     </>

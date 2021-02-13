@@ -3,10 +3,10 @@ title: Supporting asking questions
 description: A quick method that might help you pass on your message better
 date: 2021-02-14
 path: /supporting-asking-questions
-featuredImage: ./images/gradient.jpg
+featuredImage: ./images/dark-design.jpg
 featuredImageAlt: "abstract gradient"
 tags: ["productivity"]
-author: Suraj Rai
+author:
 ---
 
 #Supporting asking questions.
