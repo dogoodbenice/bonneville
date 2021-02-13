@@ -51,7 +51,7 @@ const ContactPage = () => {
         If you'd like to get in touch feel free to use the form below or using a social platform.{" "}
       </p>
       <Form>
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="contact" action="/thanks" method="POST" data-netlify="true">
           <p>
             <FormLabel for="name">Your Name</FormLabel>
             <FormInput type="text" name="name" />
