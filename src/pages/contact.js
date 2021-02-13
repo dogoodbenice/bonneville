@@ -44,31 +44,15 @@ const ContactPage = () => {
     <>
       <SEO
         title="Get in touch"
-        description="Contact Bonneville about your next project"
+        description="Here's how to send me a message"
       />
-      <Banner content="The door is always open" />
+      <Banner content="The door / inbox is always open" />
       <p>
-        If you'd like to get in touch feel free to use the form below or using a social platform.{" "}
+        If you'd like to get in touch you can reach me on <em>suraj.rai@my.com</em>. I aim to reply as soon as I can.
       </p>
-      <Form>
-        <form name="contact" action="/thanks" method="POST" data-netlify="true">
-          <p>
-            <FormLabel for="name">Your Name</FormLabel>
-            <FormInput type="text" name="name" />
-          </p>
-          <p>
-            <FormLabel for="email">Your Email Address</FormLabel>
-            <FormInput type="email" name="email" />
-          </p>
-          <p>
-            <FormLabel for="message">Your Message</FormLabel>
-            <FormTextArea type="text" name="message" />
-          </p>
-          <p>
-            <Button className="btn-link" text="Send Message" type="submit" />
-          </p>
-        </form>
-      </Form>
+      <p>
+        Alternatively please free to use a social platform to send me a message.{" "}
+      </p>
     </>
   )
 }
