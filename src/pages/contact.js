@@ -54,8 +54,20 @@ const ContactPage = () => {
         I aim to reply as soon as I can.
       </p>
       <p>
-        Alternatively please free to use a social platform to send me a message.{" "}
+        Alternatively, please free to use a social platform to send me a message.
       </p>
+      <p>
+        I'm on <a href="https://twitter.com/logikblok">Twitter here</a>.
+      </p>
+      <p>
+        I'm on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a>.
+      </p>
+      <br />
+      <p>
+        👐{" "}
+      </p>
+      <br />
+      <br />
       <br />
     </>
   )
