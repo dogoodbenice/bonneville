@@ -5,8 +5,8 @@ import styled from "styled-components"
 
 const ShareArea = styled.div`
   svg {
-    width: 15px;
-    height: 15px;
+    width: 18px;
+    height: 18px;
     margin-right: var(--spacing);
   }
 

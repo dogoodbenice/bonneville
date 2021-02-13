@@ -46,24 +46,18 @@ const ContactPage = () => {
         title="Get in touch"
         description="Contact Bonneville about your next project"
       />
-      <Banner content="Get in touch today" />
+      <Banner content="The door is always open" />
       <p>
-        Fusce eu tincidunt felis. Ut auctor urna et nibh lacinia, id efficitur
-        ipsum blandit. Aliquam vulputate sapien sit amet ante varius vestibulum.
-        Morbi sodales, quam quis tincidunt venenatis, nibh lorem viverra velit,
-        ac ultrices ligula nisi id justo. Vestibulum imperdiet fermentum ante eu
-        fermentum. Sed et orci pretium, ullamcorper nisi nec, dignissim erat.
-        Sed eu consequat neque, interdum malesuada eros. Ut maximus gravida
-        malesuada.{" "}
+        If you'd like to get in touch feel free to use the form below or using a social platform.{" "}
       </p>
       <Form>
-        <form name="contact" netlify>
+        <form name="contact" method="POST" data-netlify="true">
           <p>
             <FormLabel for="name">Your Name</FormLabel>
             <FormInput type="text" name="name" />
           </p>
           <p>
-            <FormLabel for="email">Email Address</FormLabel>
+            <FormLabel for="email">Your Email Address</FormLabel>
             <FormInput type="email" name="email" />
           </p>
           <p>
