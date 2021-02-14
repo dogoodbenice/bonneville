@@ -4,7 +4,7 @@ const AboutPage = () => (
   <>
     <h1>About Me</h1>
     <p>
-      Hello I'm Suraj. I create products, services and experiences for people. My current focus is on making it easier to do business internationally.
+      Hello I'm Suraj. Proffesionally I've been in product roles for over 5 years. I create products, services and experiences for people. My current focus is on making it easier to do business internationally.
     </p>
     <p>
       I'm often most happiest working in teams

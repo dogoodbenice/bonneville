@@ -6,7 +6,7 @@ path: /problems-worth-solving
 featuredImage: ./images/dark-sky.jpg
 featuredImageAlt: "Dark abstract shapes"
 tags: ["society"]
-author: Suraj Rai
+author: 
 ---
 
 There are many things and focuses that we think we should solve.

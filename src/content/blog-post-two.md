@@ -5,7 +5,7 @@ date: 2019-08-26
 path: /morbi-elit-leo
 featuredImage: ./images/dog.jpg
 tags: ["data"]
-author: Morgan Baker
+author:
 ---
 
 ## Nulla est purus, auctor a pellentesque
@@ -35,7 +35,7 @@ Aenean eros sem, mollis nec tempus eu, semper quis tellus. Etiam vel porta massa
 Quisque sit amet mi sapien. Aenean at magna vel turpis fringilla lacinia. Sed vulputate neque vitae augue posuere tempor. Praesent ut sagittis ipsum. Nulla volutpat at augue a vulputate. Etiam molestie est vel pretium imperdiet. Duis a sem tristique, dapibus sapien a, rutrum dui. Nunc non lectus quis urna iaculis feugiat in eu orci. Vestibulum pretium luctus justo, non convallis ante dignissim vel. Nam tristique ante vitae vehicula tincidunt. Proin vel nibh eu nunc porta laoreet at a velit. Proin blandit tincidunt eros nec placerat.
 
 | Curabitur et neque                            | Proin turpis risus                        | Maecenas consequat neque   |
-| --------------------------------------------- | ----------------------------------------- | -------------------------- |
+|:----------------------------------------------|:------------------------------------------|:---------------------------|
 | Suspendisse potenti. Aenean eget tellus neque | Sed malesuada, nunc imperdiet             | Quisque sit amet mi sapien |
 | Aenean at magna vel turpis                    | Proin blandit tincidunt eros nec placerat | Duis a sem tristique       |
 

@@ -6,7 +6,7 @@ path: /driving-lessons-life-lessons
 featuredImage: ./images/gradient.jpg
 featuredImageAlt: "abstract gradient"
 tags: ["society"]
-author: Suraj Rai
+author:
 ---
 
 #Life Lessons Driving Lessons.
