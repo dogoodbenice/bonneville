@@ -6,7 +6,7 @@ path: /open-good-list
 featuredImage: ./images/dark-sky.jpg
 featuredImageAlt: "Dark abstract shapes"
 tags: ["data", "culture", "technology","productivity","short"]
-author:
+author: With thanks to the creators of each link
 ---
 
-This is my open tracker of great
+This is my open tracker of great things 
