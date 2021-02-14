@@ -9,4 +9,6 @@ tags: ["data", "culture", "technology","productivity","short"]
 author: With thanks to the creators of each link
 ---
 
-This is my open tracker of great things 
+This is my open tracker of great things
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrl4vxOG1KNlAhiu?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

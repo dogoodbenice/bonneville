@@ -37,19 +37,19 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       title:
         "This is the privacy page and it's not really in use.",
       content:
-        "Impressive that you've found it, but I don't have any tracking on this .",
+        "Impressive that you've found this.",
     },
     {
       name: "cookies",
       title:
         "This is the cookies page and it's not really in use.",
       content:
-        "Impressive that you've found this.",
+        "Impressive that you've found this but this site doesn't use any cookies.",
     },
     {
       name: "404",
       title:
-        "Whoops this isn't quite right. You've hit the error page, sorry about that. Could you try a link from the menu please?",
+        "Whoops this isn't quite right. You've hit the error page, sorry about that, but this isn't the end. Could you try a link from the menu please?",
     },
   ]
   pageData.forEach(page => {
