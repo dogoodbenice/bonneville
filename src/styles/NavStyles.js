@@ -14,7 +14,7 @@ export const HeaderStyles = styled.header`
   transition: box-shadow var(--transMed) ease;
 
   &.scrolled {
-    /*box-shadow: -1px 5px 11px 0px rgba(0, 0, 0, 0.1);*/
+    box-shadow: -1px 5px 11px 0px rgba(0, 0, 0, 0.1);
   }
 
   .logo-cont {
