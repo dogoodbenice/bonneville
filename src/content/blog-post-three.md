@@ -1,6 +1,6 @@
 ---
-title: Duis convallis eget elit eget efficitur
-description: Aliquam erat volutpat. Suspendisse potenti. Aenean eget tellus neque
+title:
+description: Music and productivity
 date: 2019-08-26
 path: /duis-convallis-eget
 featuredImage: ./images/trees.jpg

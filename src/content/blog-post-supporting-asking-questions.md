@@ -11,6 +11,8 @@ author:
 
 ###A quick framework to breaking down any hidden barriers to asking questions.
 
+Often we
+
 It's 2:23pm in the working day, you're wrapping up your deck that you've worked on and now are opening the floor to questions. You do so by saying
 
 How many times have you given a presentation and ended by asking questions?
