@@ -48,14 +48,14 @@ const ContactPage = () => {
       />
       <Banner content="The door / inbox is always open" />
       <p>
-        If you'd like to get in touch you can reach me on <em>suraj.rai@my.com</em>.
+        If you'd like to get in touch about anything, you can reach me on <em>suraj.rai @ my.com</em>.
       </p>
       <p>
         I aim to reply as soon as I can.
       </p>
       <br />
       <p>
-        Alternatively, please free to use a social platform to send me a message.
+        Alternatively, please free to use one of these social platforms to send me a message.
       </p>
       <p>
         I'm reachable on <a href="https://twitter.com/logikblok">Twitter here</a>.

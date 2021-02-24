@@ -4,13 +4,10 @@ const AboutPage = () => (
   <>
     <h1>About Me</h1>
     <p>
-      Hello I'm Suraj. Proffesionally I'm a product manager, my current focus is on making it easier for businesses to trade internationally.
+      Hello I'm Suraj. Professionally I'm a product manager and my current focus is on <a href="https://www.great.gov.uk/">making it easier for businesses to trade internationally</a>.
     </p>
     <p>
-      Previous problems I've explored trying to solve are 
-    </p>
-    <p>
-      I'm often most happiest working in teams at the intersection of design, technology and human interaction, creating experiences that improve ....
+      As a person I'm often most happiest working in teams looking to solve large problems for people using design, technology and data. 
     </p>
     <p>
       You may like to explore my <a href="/projects">projects</a> or some of my <a href="/journal">thinking and writing</a>.
