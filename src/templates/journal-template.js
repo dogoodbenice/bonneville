@@ -30,6 +30,9 @@ const JournalTemplate = props => {
         Some are <a href="/tags/longform">long</a>, some are <a href="/tags/short">short</a>, you may also be interested in some of my <a href="https://blog.logikblok.com/">historic writing</a>.
       </p>
       <p>
+        The images on posts are designed by me, you're welcome to explore them <a href="https://github.com/logikblok/bonneville/tree/master/src/content/images">here</a>.
+        </p>
+      <p>
         Feedback is always <a href="/contact">appreciated</a>.
       </p>
       {edges.map(({ node }, index) => {

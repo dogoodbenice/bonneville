@@ -5,7 +5,7 @@ date: 2021-02-14
 path: /supporting-asking-questions
 featuredImage: ./images/questions.jpg
 featuredImageAlt: "a flock of birds flying in the formation of a question"
-tags: ["productivity","short","product-managment"]
+tags: ["productivity","short","product-management"]
 author:
 ---
 
