@@ -19,7 +19,7 @@ const GlobalStyles = createGlobalStyle`
     --h5: 1.15rem;
     --h6: 1rem;
     --footerMenuItem: 0.85rem;
-    --para: 1rem;
+    --para: 1.15rem;
     --spacing: 1rem;
 
     @media (min-width: 768px) {
@@ -30,7 +30,7 @@ const GlobalStyles = createGlobalStyle`
       --h5: 1.25rem;
       --h6: 1.1rem;
       --footerMenuItem: 1rem;
-      --para: 1.1rem;
+      --para: 1.15rem;
     }
 
     @media (min-width: 1200px) {
