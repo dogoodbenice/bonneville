@@ -1,7 +1,7 @@
 ---
 title: Morbi elit leo, auctor sed lectus
 description: Duis venenatis pretium lorem sit amet sollicitudin. Sed malesuada, nunc imperdiet
-date: 2020-08-26
+date: 2019-08-26
 path: /morbi-elit-leo
 featuredImage: ./images/dog.jpg
 tags: ["data"]
