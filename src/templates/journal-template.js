@@ -24,6 +24,9 @@ const JournalTemplate = props => {
         These are some pieces I've written.
       </p>
       <p>
+        Topics I often explore are <a href="/tags/culture">culture</a>, <a href="/tags/art">art</a>, <a href="/tags/data">data</a>, <a href="/tags/technology">technology</a> and <a href="/tags/productivity">productivity</a>. Most are <a href="/tags/short">short</a>, some are <a href="/tags/longform">long</a>.
+      </p>
+      <p>
         Feedback is always <a href="/contact">appreciated</a>.
       </p>
       {edges.map(({ node }, index) => {
