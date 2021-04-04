@@ -11,7 +11,7 @@ module.exports = {
     titleTemplate: ``,
     description: `Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people.`,
     siteUrl: `https://xenodochial-mestorf-853f17.netlify.app/`,
-    image: `/images/hello.from.suraj.png`,
+    image: `images/hello.from.suraj.png`,
     author: `Suraj Rai`,
     authorSite: `https://www.logikblok.com`,
     twitterUsername: `@logikblok`,
@@ -40,7 +40,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "[NOPE.¯\_(ツ)_/¯]",
+        trackingId: "[NOPE NOTHING HERE.¯\_(ツ)_/¯]",
         head: false,
       },
     },

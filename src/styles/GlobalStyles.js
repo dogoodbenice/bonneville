@@ -12,9 +12,9 @@ const GlobalStyles = createGlobalStyle`
     --primaryColor: #2f3640;
     --serif: "Times New Roman", serif;
     --sansSerif: "Helvetica", sans-serif;
-    --h1: 2rem;
-    --h2: 1.8rem;
-    --h3: 1.5rem;
+    --h1: 1.9rem;
+    --h2: 1.6rem;
+    --h3: 1.4rem;
     --h4: 1.25rem;
     --h5: 1.15rem;
     --h6: 1rem;
