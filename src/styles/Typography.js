@@ -88,7 +88,7 @@ blockquote {
   box-sizing: border-box;
 
   p {
-    font-size: var(--h3);
+    font-size: var(--h4);
     margin: 0;
   }
 
