@@ -8,10 +8,10 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `logikblok.com | Suraj's home on the internet`,
-    titleTemplate: ``,
+    titleTemplate: `logikblok.com | Suraj's home on the internet`,
     description: `Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people.`,
-    siteUrl: `https://xenodochial-mestorf-853f17.netlify.app/`,
-    image: `images/hello.from.suraj.png`,
+    siteUrl: `https://www.logikblok.com`,
+    image: `./images/hello.from.suraj.png`,
     author: `Suraj Rai`,
     authorSite: `https://www.logikblok.com`,
     twitterUsername: `@logikblok`,
@@ -27,7 +27,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `logikblok.com | Suraj's home on the internet`,
-        short_name: `Logikblok`,
+        short_name: `logikblok`,
         start_url: `/`,
         background_color: `#0027EC`,
         theme_color: `#0027EC`,
