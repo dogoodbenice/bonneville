@@ -168,7 +168,7 @@ table {
   @media (min-width: 1200px) {
     th,
     td {
-      padding: calc(var(--spacing) * 1.5) calc(var(--spacing) * 2);
+      padding: calc(var(--spacing) * 1) calc(var(--spacing) * 2);
     }
   }
 }
