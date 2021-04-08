@@ -31,11 +31,11 @@ ul,
   margin: calc(var(--spacing) * 1.1) 0;
 
   @media (min-width: 768px) {
-    margin: calc(var(--spacing) * 3) 0;
+    margin: calc(var(--spacing) * 1.1) 0;
   }
 
   @media (min-width: 1200px) {
-    margin: calc(var(--spacing) * 4) 0;
+    margin: calc(var(--spacing) * 1.1) 0;
   }
 }
 
@@ -88,7 +88,7 @@ blockquote {
   box-sizing: border-box;
 
   p {
-    font-size: var(--h4);
+    font-size: var(--h5);
     margin: 0;
   }
 
