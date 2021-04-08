@@ -28,7 +28,7 @@ table,
 ol,
 ul,
 .gatsby-resp-image-wrapper {
-  margin: calc(var(--spacing) * 2) 0;
+  margin: calc(var(--spacing) * 1.1) 0;
 
   @media (min-width: 768px) {
     margin: calc(var(--spacing) * 3) 0;
