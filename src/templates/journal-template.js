@@ -27,6 +27,9 @@ const JournalTemplate = props => {
         Topics I often explore are <a href="/tags/culture">culture</a>, <a href="/tags/art">art</a>, <a href="/tags/data">data</a>, <a href="/tags/technology">technology</a> and <a href="/tags/productivity">productivity</a>. Most are <a href="/tags/short">short</a>, some are <a href="/tags/longform">long</a>.
       </p>
       <p>
+        Smaller more creative peices are hosted on my <a href="https://logikblok-blog.tumblr.com/">blog</a> or in my <a href="https://logikblok.github.io/sketches/">sketches</a>.
+      </p>
+      <p>
         Feedback is always <a href="/contact">appreciated</a>.
       </p>
       {edges.map(({ node }, index) => {
