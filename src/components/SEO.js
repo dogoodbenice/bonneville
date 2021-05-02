@@ -39,7 +39,7 @@ const SEO = ({ title, description, lang, image, article }) => {
         <meta property="og:description" content={seo.description} />
       )}
       {seo.image && <meta property="og:image" content={seo.image} />}
-      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:card" content="https://www.logikblok.com/static/d89107ec631d6303522c31465bc86b1d/ee604/opengoodlist.png" />
       {twitterUsername && (
         <meta name="twitter:creator" content={twitterUsername} />
       )}
