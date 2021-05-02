@@ -11,7 +11,7 @@ module.exports = {
     titleTemplate: `logikblok.com | Suraj's home on the internet`,
     description: `Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people.`,
     siteUrl: `https://www.logikblok.com`,
-    image: `/images/hello.from.suraj.png`,
+    image: `/static/d89107ec631d6303522c31465bc86b1d/ee604/opengoodlist.png`,
     author: `Suraj Rai`,
     authorSite: `https://www.logikblok.com`,
     twitterUsername: `@logikblok`,
