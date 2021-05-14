@@ -44,4 +44,8 @@ export const footerMenuItems = [
     path: "/contact",
     title: "contact",
   },
+  {
+    path: "/elsewhere",
+    title: "elsewhere",
+  },
 ]
