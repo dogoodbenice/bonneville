@@ -8,6 +8,7 @@ const ElsewherePage = () => (
     <br />
     <p><a href="https://ello.co/logikblok">Ello</a></p>
     <p><a href="https://www.producthunt.com/@logikblok">Product Hunt</a></p>
+    <p><a href="https://www.are.na/suraj-rai">Are.na</a></p>
     <p><a href="https://www.youtube.com/c/logikblok">Youtube</a></p>
     <p><a href="https://www.instagram.com/logikblok">Instagram</a></p>
     <p><a href="https://old.reddit.com/user/logikblok/">Reddit</a></p>
