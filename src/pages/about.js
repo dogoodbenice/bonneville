@@ -6,7 +6,7 @@ const AboutPage = () => (
     <h1>About Me</h1>
     <p>Hello I'm Suraj.</p>
     <p>
-      Professionally I'm a product manager and my current focus is on <a href="https://www.great.gov.uk/">making it easier for businesses to trade internationally</a>.
+      Professionally I'm a product manager and my current focus is on <a href="https://www.refinitiv.com/">making it easier for businesses to make decisions using data and content</a>.
     </p>
     <p>
       As a person I'm happiest working in teams looking to solve large problems. Most often these are for people, however sometimes they can be for organisations or even machines. Overall I aim to create the best outcomes combining design, technology and data.
