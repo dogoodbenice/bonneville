@@ -25,6 +25,8 @@ const AboutPage = () => (
     <p>Regularly lending small amounts around the world.</p>
     <h4><a href="https://logikblok.github.io/seenrecently/">Seen Recently</a></h4>
     <p>Things seen recently by me, free for anyone to use.</p>
+    <h4><a href="https://logikblok.github.io/badstockphotos/">Bad Stock Photos</a></h4>
+    <p>Not so great photos for anyone to do anything with.</p>
     <br />
     <h4><a href="https://afamilytreasure.tumblr.com/">Retired. A Family Treasure</a></h4>
     <p>Curating objects of great value. These are the stories of family treasures.</p>
