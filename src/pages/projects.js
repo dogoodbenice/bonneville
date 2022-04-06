@@ -7,8 +7,8 @@ const AboutPage = () => (
     <p>These are some of the things I have created or been involved in.</p>
     <p>This is a living list please do, <a href="/contact">get in touch</a> if you'd like to collaborate or share any feedback.</p>
     <br />
-    <h4><a href="https://www.proverbproject.com">Proverb Project</a></h4>
-    <p>Creating a collection of carbon neutral to negative products.</p>
+    <h4><a href="https://logikblok.github.io/seenrecently/">Seen Recently</a></h4>
+    <p>Things seen recently by me, free for anyone to use.</p>
     <h4><a href="https://logikblok.github.io/sketches/">Sketches</a></h4>
     <p>An assortment of experiments. Sometimes interactive sometimes not.</p>
     <h4><a href="https://www.upskillme.io">Upksill Me</a></h4>
@@ -23,8 +23,6 @@ const AboutPage = () => (
     <p>Exploring the world in data.</p>
     <h4><a href="https://www.kiva.org/lender/logikblok">Micro finance</a></h4>
     <p>Regularly lending small amounts around the world.</p>
-    <h4><a href="https://logikblok.github.io/seenrecently/">Seen Recently</a></h4>
-    <p>Things seen recently by me, free for anyone to use.</p>
     <h4><a href="https://logikblok.github.io/badstockphotos/">Bad Stock Photos</a></h4>
     <p>Not so great photos for anyone to do anything with.</p>
     <br />
@@ -32,6 +30,8 @@ const AboutPage = () => (
     <p>Curating objects of great value. These are the stories of family treasures.</p>
     <h4><a href="https://createdbyschools.tumblr.com/">Retired. Created by schools</a></h4>
     <p>A project that created tools for schools.{" "}</p>
+    <h4><a href="https://www.proverbproject.com">Retired. Proverb Project</a></h4>
+    <p>Creating a collection of carbon neutral to negative products.</p>
   </>
 )
 

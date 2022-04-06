@@ -7,7 +7,7 @@ const ElsewherePage = () => (
     <p>If you'd like to hang out digitally.</p>
     <br />
     <p><a href="https://ello.co/logikblok">Ello</a></p>
-    <p><a href="https://www.producthunt.com/@logikblok">Product Hunt</a></p>
+    <p><a href="https://www.producthunt.com/@logikblok/submitted">Product Hunt</a></p>
     <p><a href="https://www.are.na/suraj-rai">Are.na</a></p>
     <p><a href="https://www.youtube.com/c/logikblok">Youtube</a></p>
     <p><a href="https://vimeo.com/logikblok">Vimeo</a></p>
