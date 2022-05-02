@@ -13,4 +13,4 @@
 - Slight modifications have been made, mainly aesthetic
 - It's hosted using [Netlify](https://docs.netlify.com/)
 - It's built using [Gatsby](https://www.gatsbyjs.org/)
-- Experience it [here](https://xenodochial-mestorf-853f17.netlify.app/)
+- Experience it [here](https://www.logikblok.com/)
