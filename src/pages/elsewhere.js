@@ -4,7 +4,7 @@ import SEO from "../components/SEO"
 const ElsewherePage = () => (
   <>
     <h1>Elsewhere on the internet</h1>
-    <p>If you'd like to hang out digitally.</p>
+    <p>If you'd like to hang out digitally find me on the platforms below. Alternatively you might like to <a href="/contact">contact me</a>.</p>
     <br />
     <p><a href="https://ello.co/logikblok">Ello</a></p>
     <p><a href="https://www.producthunt.com/@logikblok/submitted">Product Hunt</a></p>
