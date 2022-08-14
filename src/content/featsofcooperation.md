@@ -23,7 +23,7 @@ The speed at which these were created, using technology and data, which required
 >To go from the discovery of a deadly new virus to the creation of a tested vaccine that can block its effects in less than a year is unprecedented in scientific history.
 
 #### The healing of the Ozone layer
-Did you know in 2019, the UNEP announced that the world was on track to have completely healed [it's Ozone layer](https://news.un.org/en/story/2019/09/1046452)? This amazing result is with thanks to the Montreal Protocol and the cooperation undertaken by all the parties involved. [How we fixed the ozone layer](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/)
+Did you know in 2019, the UNEP announced that the world was on track to have completely healed [it's Ozone layer](https://news.un.org/en/story/2019/09/1046452)? This amazing result is with thanks to the Montreal Protocol and the cooperation undertaken by all the parties involved. 
 
 >The Montreal Protocol is, to date, the only UN treaty to be adopted by all Member States, with all parties sharing responsibilities relating to phasing out ozone-depleting substances, controlled trade of such substances, annual data reporting and other matters.
 
@@ -35,6 +35,6 @@ The level of cooperation required across domains, teams and competing constraint
 Overall, moments like these make me hopeful for our shared future, because we can do remarkable feats of cooperation. 
 
 --- 
-Additional writing that you may like to explore along this line of thinking include [Longtermism from Our World in Data](https://ourworldindata.org/longtermism), [people’s capacity for cooperation](https://www.theguardian.com/commentisfree/2021/jan/02/psychologists-pandemic-cooperation-government-public-britain#comments).
+Additional writing that you may like to explore along this line of thinking include [Longtermism](https://ourworldindata.org/longtermism), [people’s capacity for cooperation](https://www.theguardian.com/commentisfree/2021/jan/02/psychologists-pandemic-cooperation-government-public-britain#comments) and [how we fixed the ozone layer](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/).
 
 If you have any feedback on this post do [get in touch](/contact).
