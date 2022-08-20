@@ -9,7 +9,7 @@ tags: ["society","short","culture"]
 author:
 ---
 
-Humans make me hopeful because of our immense capacity to cooperate. 
+Humans make me hopeful because of our immense capacity to cooperate.
 
 I'm optimistic for the future because mechanisms of cooperation are becoming better. From tools to instantly translate languages to platforms that allow us to share information globally.
 
@@ -32,9 +32,9 @@ The level of cooperation required across domains, teams and competing constraint
 
 >It may turn out that [the space program’s] most valuable spin-off of all will be human rather than technological: better knowledge of how to plan, coordinate, and monitor the multitudinous and varied activities of the organizations required to accomplish great social undertakings.  
 
-Overall, moments like these make me hopeful for our shared future, because we can do remarkable feats of cooperation. 
+Overall, moments like these make me hopeful for our shared future, because we can do remarkable feats of cooperation.
 
---- 
-Additional writing that you may like to explore along this line of thinking include [Longtermism](https://ourworldindata.org/longtermism), [people’s capacity for cooperation](https://www.theguardian.com/commentisfree/2021/jan/02/psychologists-pandemic-cooperation-government-public-britain#comments) and [how we fixed the ozone layer](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/).
+---
+Additional writing that you may like to explore along this line of thinking include [Longtermism](https://ourworldindata.org/longtermism), [people’s capacity for cooperation](https://www.theguardian.com/commentisfree/2021/jan/02/psychologists-pandemic-cooperation-government-public-britain#comments), [the silence of risk management theory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory) and [how we fixed the ozone layer](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/).
 
 If you have any feedback on this post do [get in touch](/contact).
