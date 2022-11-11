@@ -18,6 +18,7 @@ const ElsewherePage = () => (
     <p><a href="https://www.behance.net/logikblok">Behance</a></p>
     <p><a href="https://logikblok-blog.tumblr.com/">Tumblr</a></p>
     <p><a href="https://www.duolingo.com/profile/logikblok">Duolingo</a></p>
+    <p><a href="https://artvee.com/members/logikblok/">Artvee</a></p>
   </>
 )
 
