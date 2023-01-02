@@ -35,6 +35,6 @@ The level of cooperation required across domains, teams and competing constraint
 Overall, moments like these make me hopeful for our shared future, because we can do remarkable feats of cooperation.
 
 ---
-Additional writing that you may like to explore along this line of thinking include [Longtermism](https://ourworldindata.org/longtermism), [people’s capacity for cooperation](https://www.theguardian.com/commentisfree/2021/jan/02/psychologists-pandemic-cooperation-government-public-britain#comments), [the silence of risk management theory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory) and [how we fixed the ozone layer](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/).
+Additional writing that you may like to explore along this line of thinking include [Longtermism](https://ourworldindata.org/longtermism), [people’s capacity for cooperation](https://www.theguardian.com/commentisfree/2021/jan/02/psychologists-pandemic-cooperation-government-public-britain#comments), [the silence of risk management theory](https://riskmusings.substack.com/p/the-silence-of-risk-management-victory), [I Choose Optimism](https://secularhumanism.org/2022/08/i-choose-optimism/) and [how we fixed the ozone layer](https://www.worksinprogress.co/issue/how-we-fixed-the-ozone-layer/).
 
 If you have any feedback on this post do [get in touch](/contact).
