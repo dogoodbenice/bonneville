@@ -7,17 +7,17 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `logikblok.com | Suraj's home on the internet`,
-    titleTemplate: `logikblok.com | Suraj's home on the internet`,
+    title: `Suraj's space on the internet`,
+    titleTemplate: `Suraj's space on the internet`,
     description: `Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people.`,
-    siteUrl: `https://www.logikblok.com`,
+    siteUrl: `https://www.surajr.com`,
     image: `/static/d89107ec631d6303522c31465bc86b1d/ee604/opengoodlist.png`,
     author: `Suraj Rai`,
-    authorSite: `https://www.logikblok.com`,
+    authorSite: `https://www.surajr.com`,
     twitterUsername: `@logikblok`,
     twitterURL: `https://twitter.com/`,
     linkedInURL: `https://www.linkedin.com/in/surajrai`,
-    githubURL: `https://github.com/logikblok`,
+    githubURL: `https://github.com/dogoodbenice`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `logikblok.com | Suraj's home on the internet`,
-        short_name: `logikblok`,
+        name: `Suraj's space on the internet`,
+        short_name: `surajr`,
         start_url: `/`,
         background_color: `#0027EC`,
         theme_color: `#0027EC`,
