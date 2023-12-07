@@ -34,7 +34,7 @@ export const socialMenuItems = [
   },
   {
     icon: <DiGithubBadge />,
-    url: "https://github.com/logikblok",
+    url: "https://github.com/dogoodbenice",
     name: "GitHub",
   },
 ]

@@ -13,7 +13,6 @@ const ElsewherePage = () => (
     <p><a href="https://www.youtube.com/c/logikblok">Youtube</a></p>
     <p><a href="https://vimeo.com/logikblok">Vimeo</a></p>
     <p><a href="https://www.instagram.com/logikblok">Instagram</a></p>
-    <p><a href="https://old.reddit.com/user/logikblok/">Reddit</a></p>
     <p><a href="https://dribbble.com/logikblok/collections">Dribbble</a></p>
     <p><a href="https://www.tiktok.com/@logikblok">Tik Tok</a></p>
     <p><a href="https://www.behance.net/logikblok">Behance</a></p>
