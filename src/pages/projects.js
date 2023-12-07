@@ -7,12 +7,10 @@ const AboutPage = () => (
     <p>These are some of the things I have created or been involved in.</p>
     <p>This is a living list please do, <a href="/contact">get in touch</a> if you'd like to collaborate or share any feedback.</p>
     <br />
-    <h4><a href="https://logikblok.github.io/seenrecently/">Seen Recently</a></h4>
+    <h4><a href="https://dogoodbenice.github.io/seenrecently/">Seen Recently</a></h4>
     <p>Things seen recently by me, free for anyone to use.</p>
-    <h4><a href="https://logikblok.github.io/sketches/">Sketches</a></h4>
+    <h4><a href="https://dogoodbenice.github.io/sketches/">Sketches</a></h4>
     <p>An assortment of experiments. Sometimes interactive sometimes not.</p>
-    <h4><a href="https://www.upskillme.io">Upksill Me</a></h4>
-    <p>A platform to support the success of every young person.</p>
     <h4><a href="https://showmethefuture.logikblok.com/">Show me the future</a></h4>
     <p>A light hearted exeriment to show you a possible future, not mobile friendly (yet).</p>
     <h4><a href="https://emojiphotobooth.logikblok.com/">Emoji Photo Booth</a></h4>
@@ -25,9 +23,9 @@ const AboutPage = () => (
     <p>An upcoming socially motivated agency making products that are good for everyone.</p>
     <h4><a href="https://observablehq.com/@logikblok?tab=notebooks">Notebooks</a></h4>
     <p>Exploring the world in data.</p>
-    <h4><a href="https://www.kiva.org/lender/logikblok">Micro finance</a></h4>
+    <h4><a href="https://www.kiva.org/lender/dogoodbenice">Micro finance</a></h4>
     <p>Regularly lending small amounts around the world.</p>
-    <h4><a href="https://logikblok.github.io/badstockphotos/">Bad Stock Photos</a></h4>
+    <h4><a href="https://dogoodbenice.github.io/badstockphotos/">Bad Stock Photos</a></h4>
     <p>Not so great photos for anyone to do anything with.</p>
     <br />
     <h4><a href="https://afamilytreasure.tumblr.com/">Retired. A Family Treasure</a></h4>
