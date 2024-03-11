@@ -21,7 +21,7 @@ const AboutPage = () => (
     <p>A website that hopefully will do exactly what it says in the title, enjoy.</p>
     <h4><a href="http://www.houserai.com/">House Rai</a></h4>
     <p>An upcoming socially motivated agency making products that are good for everyone.</p>
-    <h4><a href="https://observablehq.com/@logikblok?tab=notebooks">Notebooks</a></h4>
+    <h4><a href="https://observablehq.com/@dogoodbenice">Notebooks</a></h4>
     <p>Exploring the world in data.</p>
     <h4><a href="https://www.kiva.org/lender/dogoodbenice">Micro finance</a></h4>
     <p>Regularly lending small amounts around the world.</p>
