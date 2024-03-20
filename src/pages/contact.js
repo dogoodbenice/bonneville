@@ -58,7 +58,7 @@ const ContactPage = () => {
         Alternatively, if you prefer, please free to use one of the platforms below to send me a message.
       </p>
       <p>
-        I'm reachable on <a href="https://twitter.com/logikblok">Twitter here</a>.
+        I'm reachable on <a href="https://twitter.com/dogood_benice">Twitter here</a>.
       </p>
       <p>
         I'm reachable on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a>.{" "}
