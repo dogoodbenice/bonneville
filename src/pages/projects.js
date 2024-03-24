@@ -13,7 +13,7 @@ const AboutPage = () => (
     <p>An assortment of experiments. Sometimes interactive sometimes not.</p>
     <h4><a href="https://showmethefuture.surajr.com/">Show me the future</a></h4>
     <p>A light hearted exeriment to show you a possible future, not mobile friendly (yet).</p>
-    <h4><a href="https://emojiphotobooth.logikblok.com/">Emoji Photo Booth</a></h4>
+    <h4><a href="https://emojiphotobooth.surajr.com/">Emoji Photo Booth</a></h4>
     <p>A website that places emojis on your face using PoseNet, ml5.js and p5.js.</p>
     <h4><a href="https://www.thetreeapp.org/">Tree App</a></h4>
     <p>Plant a tree for free, every day.</p>
