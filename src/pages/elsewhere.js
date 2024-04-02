@@ -12,7 +12,6 @@ const ElsewherePage = () => (
     <p><a href="https://www.youtube.com/@dogoodbenice">Youtube</a></p>
     <p><a href="https://vimeo.com/dogoodbenice">Vimeo</a></p>
     <p><a href="https://www.instagram.com/dogoodbenice/">Instagram</a></p>
-    <p><a href="https://dribbble.com/logikblok/collections">Dribbble</a></p>
     <p><a href="https://www.tiktok.com/@dogoodbenice">Tik Tok</a></p>
     <p><a href="https://www.behance.net/dogoodbenice">Behance</a></p>
     <p><a href="https://logikblok-blog.tumblr.com/">Tumblr</a></p>

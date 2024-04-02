@@ -14,7 +14,7 @@ module.exports = {
     image: `/static/d89107ec631d6303522c31465bc86b1d/ee604/opengoodlist.png`,
     author: `Suraj Rai`,
     authorSite: `https://www.surajr.com`,
-    twitterUsername: `@logikblok`,
+    twitterUsername: `@dogood_benice`,
     twitterURL: `https://twitter.com/`,
     linkedInURL: `https://www.linkedin.com/in/surajrai`,
     githubURL: `https://github.com/dogoodbenice`,

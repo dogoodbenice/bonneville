@@ -29,7 +29,7 @@ export const socialMenuItems = [
   },
   {
     icon: <FaTwitter />,
-    url: "https://twitter.com/logikblok",
+    url: "https://twitter.com/dogood_benice",
     name: "Twitter",
   },
   {
