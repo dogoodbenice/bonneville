@@ -7,6 +7,7 @@ const ElsewherePage = () => (
     <p>If you'd like to hang out digitally, find me on a few other platforms below. Alternatively you might like to <a href="/contact">contact me</a>.</p>
     <br />
     <p><a href="https://mastodon.world/@dogoodbenice">Mastodon</a></p>
+    <p><a href="https://opensea.io/Proverbproject">OpenSea</a></p>
     <p><a href="https://www.producthunt.com/@dogoodbenice/submitted">Product Hunt</a></p>
     <p><a href="https://www.are.na/suraj-rai">Are.na</a></p>
     <p><a href="https://www.youtube.com/@dogoodbenice">Youtube</a></p>
