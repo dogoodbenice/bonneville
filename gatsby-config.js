@@ -11,7 +11,7 @@ module.exports = {
     titleTemplate: `Suraj's space on the internet`,
     description: `Hello, this is the website of Suraj Rai. I'm interested in learning and making new things for people.`,
     siteUrl: `https://www.surajr.com`,
-    image: `/static/d89107ec631d6303522c31465bc86b1d/ee604/opengoodlist.png`,
+    image: `/static/d89107ec631d6303522c31465bc86b1d/ee604/opengoodlist.jpg`,
     author: `Suraj Rai`,
     authorSite: `https://www.surajr.com`,
     twitterUsername: `@dogood_benice`,
