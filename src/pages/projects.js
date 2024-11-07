@@ -32,7 +32,7 @@ const AboutPage = () => (
     <p>Curating objects of great value. These are the stories of family treasures.</p>
     <h4><a href="https://createdbyschools.tumblr.com/">Retired. Created by schools</a></h4>
     <p>A project that created tools for schools.{" "}</p>
-    <h4><a href="https://www.proverbproject.com">Retired. Proverb Project</a></h4>
+    <h4><a href="https://www.instagram.com/proverb_project/">Retired. Proverb Project</a></h4>
     <p>Creating a collection of carbon neutral to negative products.</p>
   </>
 )
