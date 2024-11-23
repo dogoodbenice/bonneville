@@ -48,17 +48,11 @@ const ContactPage = () => {
       />
       <Banner content="The door / inbox is always open" />
       <p>
-        If you'd like to get in touch about anything, you can reach me on <em>suraj.rai@skiff.com</em>.
-      </p>
-      <p>
-        I aim to reply as soon as I can.
+        If you'd like to have a conversation about anything, please select a slot on my <a href="https://calendar.app.google/v6TX9oapZeCeBSuF9">open calendar</a>.
       </p>
       <br />
       <p>
-        Alternatively, if you prefer, please free to use one of the platforms below to send me a message.
-      </p>
-      <p>
-        I'm reachable on <a href="https://twitter.com/dogood_benice">Twitter here</a>.
+        Alternatively, if you prefer, please free to email me on <em>this is suraj rai @ gmail . com</em> or use one of the platforms below to send me a message.
       </p>
       <p>
         I'm reachable on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a>.{" "}
