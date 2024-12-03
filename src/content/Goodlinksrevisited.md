@@ -2,7 +2,7 @@
 title: Open good list revisited
 description: Additional data for the set of internet bookmarks that are good.
 date: 2024-11-11
-path: /open-good-list
+path: /open-good-list-revisited
 featuredImage: ./images/opengoodlist.jpg
 featuredImageAlt: "Abstract organic shapes"
 tags: ["data", "culture", "technology","productivity","short"]
