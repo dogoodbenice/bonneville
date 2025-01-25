@@ -7,7 +7,7 @@ import Banner from "../components/Banner"
 
 const FeaturedItems = styled.h4`
   font-size: 1.2rem;
-  color: #939393;
+  color:rgb(0, 0, 0);
 `
 
 export default ({ data }) => {
