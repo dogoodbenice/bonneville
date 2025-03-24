@@ -12,6 +12,7 @@ author: With thanks to the creators of each link
 I've been continually adding and updating [my open good link list](/open-good-list). This is my open list of links for things, that I see, are *good* on the internet.
 
 A few new data point additions beyond purely links:
+
 **Themes**
 _Data on the type of link._
 I've found that grouping links is useful for filtering and contextualising. I've settled on the below and they are applied together as tag combinations:
