@@ -13,7 +13,7 @@ This was my first smartphone. The [HTC Hero, aka chin](https://www.mobilephonemu
 
 It was so useful had a right size of form factor but was also quite quirky. I mean it had a chin hence why it was called, rather unimaginatively, the chin. That would always get a conversation started when I pulled it out to do something.
 
-![my phone in a variety of angles](./images/goodbyephone/herophone.gif)
+<img src="./images/goodbyephone/herophone.gif" alt="my phone in a variety of angles" />
 
 I used to pay £28 a month for data and the phone, which was extortionate at the time but it was the start of paying for my own things and I was naive to how much things costed.
 
