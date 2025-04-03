@@ -22,8 +22,8 @@ const GuestbookPage = () => (
         data-input-position="top"
         data-theme="noborder_light"
         data-lang="en"
-        crossorigin="anonymous"
-        async>
+        crossOrigin="anonymous"
+        async
       />
     </div>
   </>
