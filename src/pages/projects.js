@@ -28,6 +28,8 @@ const AboutPage = () => (
     <h4><a href="https://dogoodbenice.github.io/badstockphotos/">Bad Stock Photos</a></h4>
     <p>Not so great photos for anyone to do anything with.</p>
     <br />
+    <hr />
+    <br />
     <h4><a href="https://afamilytreasure.tumblr.com/">Retired. A Family Treasure</a></h4>
     <p>Curating objects of great value. These are the stories of family treasures.</p>
     <h4><a href="https://createdbyschools.tumblr.com/">Retired. Created by schools</a></h4>
