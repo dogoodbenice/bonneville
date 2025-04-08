@@ -48,14 +48,14 @@ const ContactPage = () => {
       />
       <Banner content="The door / inbox is always open" />
       <p>
-        If you'd like to have a conversation about anything, please select a slot on my <a href="https://calendar.app.google/v6TX9oapZeCeBSuF9">open calendar</a>.
+        I have an <a href="/open-offer-to-help">open offer of help</a>, if you'd like to have a conversation about anything, please try a slot on my <a href="https://calendar.app.google/v6TX9oapZeCeBSuF9">open calendar</a>.
       </p>
       <br />
       <p>
-        Alternatively, if you prefer, please free to email me on <em>this is suraj rai @ gmail . com</em> or use one of the platforms below to send me a message.
+        Alternatively, if you prefer, please free to email me on <em>this is suraj rai @ gmail . com</em>.
       </p>
       <p>
-        I'm reachable on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a>.{" "}
+        I'm also reachable on <a href="https://www.linkedin.com/in/surajrai">LinkedIn here</a> however email is preferred.{" "}
       </p>
       <br />
       <p>
