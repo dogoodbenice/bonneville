@@ -2,49 +2,38 @@ import React, { useEffect } from "react"
 import SEO from "../components/SEO"
 import styled from "styled-components"
 
-const IframeContainer = styled.div`
+const FormContainer = styled.div`
   width: 80%;
   margin: 0 auto;
-  iframe {
-    width: 100%;
-    border: none;
-  }
 `
 
 const NewsletterPage = () => {
   useEffect(() => {
-    const handleIframeMessage = (event) => {
-      if (event.data && event.data.type === 'iframeHeight') {
-        const iframe = document.querySelector('iframe');
-        if (iframe) {
-          iframe.style.height = `${event.data.height}px`;
-        }
-      }
-    };
+    // Load the external script
+    const script = document.createElement('script')
+    script.src = "https://eocampaign1.com/form/612a5b24-1467-11f0-9fc2-35c57a1f5070.js"
+    script.async = true
+    script.dataset.form = "612a5b24-1467-11f0-9fc2-35c57a1f5070"
+    document.body.appendChild(script)
 
-    window.addEventListener('message', handleIframeMessage);
-    return () => window.removeEventListener('message', handleIframeMessage);
-  }, []);
+    // Cleanup
+    return () => {
+      document.body.removeChild(script)
+    }
+  }, [])
 
   return (
     <>
       <SEO title="Newsletter" />
       <h1>Short letters from Suraj</h1>
-      <p>I write a short letter every week about what I'm thinking about, learning and making.</p>
-      <p>If you'd like to receive these letters, please sign up below.</p>
+      <p>I write a short letter every month about what I'm thinking about, learning and making.</p>
+      <p>If you'd like to receive these letters, please sign up below. Or use <a href="https://surajr.eo.page/hello">this direct link to sign up</a>.</p>
       <br />
-      <IframeContainer>
-        <iframe 
-          src="https://surajr.eo.page/hello" 
-          title="short letters from Suraj"
-          onLoad={() => {
-            const iframe = document.querySelector('iframe');
-            if (iframe) {
-              iframe.contentWindow.postMessage('getHeight', '*');
-            }
-          }}
-        />
-      </IframeContainer>
+      <FormContainer>
+        <div id="form-612a5b24-1467-11f0-9fc2-35c57a1f5070"></div>
+      </FormContainer>
+      <br />
+      <br />
     </>
   )
 }
