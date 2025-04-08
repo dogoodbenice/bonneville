@@ -4,7 +4,7 @@ import SEO from "../components/SEO"
 const NewsletterThankyouPage = () => (
   <>
     <h1>Thanks for signing up!</h1>
-    <p>Here's a thank you just for you in 10 different languages.</p>
+    <p>A new letter is on it's way to you soon, here's a thank you, just for you, in 10 different languages.</p>
     <p>
       <ul>
         <li>ありがとう</li>
