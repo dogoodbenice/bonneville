@@ -7,6 +7,8 @@ const AboutPage = () => (
     <p>These are some of the things I have created or been involved in.</p>
     <p>This is a living list please do, <a href="/contact">get in touch</a> if you'd like to collaborate or share any feedback.</p>
     <br />
+    <h4><a href="https://agreeablypodcast.com/">Agreeably Podcast</a></h4>
+    <p>Exploring interesting ideas to see if we can all agree, or just have fun trying.</p>
     <h4><a href="https://dogoodbenice.github.io/seenrecently/">Seen Recently</a></h4>
     <p>Things seen recently by me, free for anyone to use.</p>
     <h4><a href="https://dogoodbenice.github.io/sketches/">Sketches</a></h4>
